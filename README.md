@@ -2,6 +2,7 @@
 Repositório para desenvolvimento de atividade do Embarcatech.
 ##Vídeos com a explicação do código e funcionalidade, vale ressaltar que o vídeo 2 é um vídeo curto mostrando de maneira mais clara o funcionamento na placa BitDogLab.
 ###Vídeo 1: https://drive.google.com/file/d/1OQBJPoa8yrjp9MDkfD-Rld2I-pYMmVKh/view?usp=sharing
+
 ###Vídeo 2: https://drive.google.com/file/d/1zm0ALs-IWnYsZUYB4GMIUuLtUqu4uql5/view?usp=sharing
 
 ## Enunciado
