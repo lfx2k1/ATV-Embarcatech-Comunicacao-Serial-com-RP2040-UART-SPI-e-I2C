@@ -1,5 +1,8 @@
 # ATV-Embarcatech-Comunicacao-Serial-com-RP2040-UART-SPI-e-I2C
 Repositório para desenvolvimento de atividade do Embarcatech.
+##Vídeos com a explicação do código e funcionalidade, vale ressaltar que o vídeo 2 é um vídeo curto mostrando de maneira mais clara o funcionamento na placa BitDogLab.
+###Vídeo 1: https://drive.google.com/file/d/1OQBJPoa8yrjp9MDkfD-Rld2I-pYMmVKh/view?usp=sharing
+###Vídeo 2: https://drive.google.com/file/d/1zm0ALs-IWnYsZUYB4GMIUuLtUqu4uql5/view?usp=sharing
 
 ## Enunciado
 Este projeto visa consolidar os conceitos sobre o uso de interfaces de comunicação serial no RP2040 e explorar as funcionalidades da placa de desenvolvimento BitDogLab. A seguir estão os objetivos e a descrição das funcionalidades do projeto:
