@@ -46,7 +46,9 @@ Cabo USB: Para alimentação e comunicação serial com o Raspberry Pi Pico.
 Clone este repositório:
 
 git clone https://github.com/lfx2k1/ATV-Embarcatech-Comunicacao-Serial-com-RP2040-UART-SPI-e-I2C.git
+
 Selecione a pasta - cd Atividade-2-Temporizador-de-um-disparo-OneShot-UND-4
+
 Compile o código
 
 Após a compilação, um arquivo .uf2 será gerado. Para enviá-lo a placa BitDogLab:
